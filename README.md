@@ -9,7 +9,7 @@ npm i express axios cors
 The frontend was mostly built using the UI library Chakra UI in React. Please install the following packages in the frontend folder. Axios was also used in the frontend.
 
 ```
-npm install @chakra-ui/react @chakra-ui/icons axios
+npm i @chakra-ui/react @chakra-ui/icons axios
 ```
 
 ## Running the website:
