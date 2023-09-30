@@ -1,0 +1,20 @@
+
+.cursor {
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    width: 1px;
+    height: 70px;
+    border-radius: 0;
+    background-repeat: no-repeat;
+    animation: blink 500ms infinite;
+  }
+  
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+  
