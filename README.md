@@ -20,7 +20,7 @@ Once all the packages are installed, cd into the backend folder and run `node .`
 
 The website will start on the start screen. Press play. Guess the word. Press 'ENTER' or 'Guess' button to submit your guess. You will get feedback. you get 3 attempts. 3. and 10 rounds.  When the game is over you have the option to play again! Also, I included a dark mode toggle in the navbar.
 
-## Little "features" I added
+## Notable features
 
 - Title screen animation
 - Dark mode! Press the sun/moon button in the top right corner
